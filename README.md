@@ -8,7 +8,8 @@ Um simples conversor de real pra uma moeda estrangeira.
 
 
 ```
- pkg install nodejs 
+ pkg install nodejs-lts
+ pkg install git
     git clone https://github.com/nilosqui/Conversor-de-Real
     cd Conversor-de-Real
     node index.js
