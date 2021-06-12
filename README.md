@@ -15,10 +15,9 @@ Um simples conversor de real pra uma moeda estrangeira.
 
 
 ```
- pkg upgrade && pkg update -y
- pkg install git python -y
- git clone https://github.com/nilosqui/Bengala-painel
- cd Bengala-painel
- python painel.py
+ pkg install nodejs 
+    git clone https://github.com/nilosqui/Conversor-de-Real
+    cd Conversor-de-Real
+    node index.js
 ```
 Tenha um bom aproveitamento
